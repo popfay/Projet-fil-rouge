@@ -1,0 +1,224 @@
+ h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+ }
+ 
+ a {
+    color: white;
+  }
+  label{
+    color: white;
+  }
+  form{
+  display: flex;
+  justify-content: center;
+  }
+ .pageConnexion {
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+     width: 360px;
+     height: 800px;
+     background: #553A3F;
+ }
+ .formPageconnextion {
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 120px;
+    width:100px;
+}
+.forminput {
+    margin-bottom:30px;
+}
+#bouttonConnexion{
+    margin-top:20px;
+  }
+  
+
+.RedirectionMdp{
+    margin-top: 20px;
+    color: white;
+      }
+      
+#Transition {
+    position: absolute;
+    width: 32px;
+    height: 20px;
+    left: 151px;
+    top: 446px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: white;
+} 
+
+  .pageInscription {
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+     width: 360px;
+    height: 800px;
+    background: #553A3F;
+
+} 
+.formInscription{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px;
+    width: min-content
+    
+}
+.InputInscriptionNom{
+    margin-bottom: 50px;
+}
+.InputInscriptionGenre{
+    margin-bottom: 50px;
+}
+.InputInscriptionAge{
+    margin-bottom: 50px;
+}
+.inputInscriptionVille{
+    margin-bottom: 50px;
+}
+.inputInscriptionTelephone{
+    margin-bottom: 50px;
+}
+.inputInscriptionemail{
+    margin-bottom: 50px;
+}
+.inputInscriptionMotdepasse{
+    margin-bottom: 50px;
+}
+
+.pageAcceuil {
+    padding: 5px;
+    width: 360px;
+    height: 800px;
+    background: #2D2526;
+ 
+} 
+.Icon-head{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 5px;
+    padding: 20px;
+}
+
+#Bienvenue{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    color:white;
+}
+ .NomjeuxPageAcceuil{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+} 
+#Angrybird{
+    
+    width: 292px;
+    height: 138px;
+    left: 34px;
+    top: 165px;
+    border: 1px solid #000000;
+    border-radius: 30px;
+}
+.NomAmisPageAcceuil{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+}
+#Amis{
+    display: flex;
+    justify-content: center;
+    width: 292px;
+    height: 142px;
+    left: 34px;
+    top: 510px;
+    border: 1px solid #000000;
+    border-radius: 30px;
+
+}
+.Pagechat{
+    min-height: 100vh;
+    width: 360px;
+    height: 800px;
+    background: #2D2526;
+   
+}
+.message{
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    margin-top:20px;
+    background-color:white;
+    border-radius:50px;
+}
+
+.ellipse{
+    position : fixed;
+    bottom: 30px;
+    margin-top: 85px;
+    display: flex;
+    flex-direction: row;
+    width: 350px;
+}
+
+.ellipse1{
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#BB1F3B;
+    height: 100px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+
+.ellipse2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+     background-color:#BB1F3B;
+    height: 100px;
+    width: 150px;
+    border-radius: 50%;
+}
+.ellipse3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color:#BB1F3B;
+    height: 100px;
+    width: 150px;
+    border-radius: 50%;
+}
+.ellipse4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color:#BB1F3B;
+    height: 100px;
+    width: 150px;
+    border-radius: 50%;
+}
+
